@@ -60,7 +60,7 @@ const projects: Project[] = [
       "A polished cafe website for presenting coffee, menu highlights, and a warm brand experience online.",
     technologies: ["Next.js", "TypeScript", "JavaScript", "CSS", "Vercel"],
     imageUrl:
-      "https://images.unsplash.com/photo-1509042239860-f550ce710b93?auto=format&fit=crop&w=1200&q=80",
+      "/Screenshot%202026-04-29%20at%2012.20.39%E2%80%AFAM.png",
     githubUrl: "https://github.com/lanceian1978/velvet-bean-cafe",
     liveUrl: "https://velvet-bean-cafe.vercel.app",
   },
